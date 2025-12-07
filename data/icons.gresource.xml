@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+    <gresource prefix="com/example/Foobar/icons/24x24/actions/">
+        <file preprocess="xml-stripblanks" alias="add-text-with-an-arrow.svg">icons/add-text-with-an-arrow.svg</file>
+        <file preprocess="xml-stripblanks" alias="add-text-with-box.svg">icons/add-text-with-box.svg</file>
+        <file preprocess="xml-stripblanks" alias="add-text.svg">icons/add-text.svg</file>
+        <file preprocess="xml-stripblanks" alias="delete.svg">icons/delete.svg</file>
+        <file preprocess="xml-stripblanks" alias="draw-lines.svg">icons/draw-lines.svg</file>
+        <file preprocess="xml-stripblanks" alias="eraser.svg">icons/eraser.svg</file>
+        <file preprocess="xml-stripblanks" alias="file-new.svg">icons/file-new.svg</file>
+        <file preprocess="xml-stripblanks" alias="file-open.svg">icons/file-open.svg</file>
+        <file preprocess="xml-stripblanks" alias="file-redo.svg">icons/file-redo.svg</file>
+        <file preprocess="xml-stripblanks" alias="file-save.svg">icons/file-save.svg</file>
+        <file preprocess="xml-stripblanks" alias="file-undo.svg">icons/file-undo.svg</file>
+        <file preprocess="xml-stripblanks" alias="first-page.svg">icons/first-page.svg</file>
+        <file preprocess="xml-stripblanks" alias="high-light.svg">icons/high-light.svg</file>
+        <file preprocess="xml-stripblanks" alias="last-page.svg">icons/last-page.svg</file>
+        <file preprocess="xml-stripblanks" alias="left-rotate-current.svg">icons/left-rotate-current.svg</file>
+        <file preprocess="xml-stripblanks" alias="left-rotate-entire.svg">icons/left-rotate-entire.svg</file>
+        <file preprocess="xml-stripblanks" alias="right-rotate-current.svg">icons/right-rotate-current.svg</file>
+        <file preprocess="xml-stripblanks" alias="right-rotate-entire.svg">icons/right-rotate-entire.svg</file>
+        <file preprocess="xml-stripblanks" alias="strikethrough.svg">icons/strikethrough.svg</file>
+        <file preprocess="xml-stripblanks" alias="underline.svg">icons/underline.svg</file>
+        <file preprocess="xml-stripblanks" alias="zoom-in.svg">icons/zoom-in.svg</file>
+        <file preprocess="xml-stripblanks" alias="zoom-out.svg">icons/zoom-out.svg</file>
+        <file preprocess="xml-stripblanks" alias="minus.svg">icons/minus.svg</file>
+        <file preprocess="xml-stripblanks" alias="plus.svg">icons/plus.svg</file>
+        <file preprocess="xml-stripblanks" alias="shayebushi.svg">icons/shayebushi.svg</file>
+
+    </gresource>
+</gresources>
