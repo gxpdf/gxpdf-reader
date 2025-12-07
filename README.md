@@ -10,14 +10,14 @@
 ### Linux
 - Install from source code:
 ```
-    Clone the repository: `git clone https://github.com/diy-read/gxpdf-reader.git`
+    Clone the repository: `git clone https://github.com/gxpdf/gxpdf-reader.git`
     Build the project: `cargo build --release`
     cp -rv pdfium-lib/libpdfium.so ./target/release/
     Run the application: `./target/release/gxpdf-reader test/annotations-test.pdf`
 ```
 - Run with cargo run
 ```
-    Clone the repository: `git clone https://github.com/diy-read/gxpdf-reader.git`
+    Clone the repository: `git clone https://github.com/gxpdf/gxpdf-reader.git`
     Build the project for debug: `cargo build`
     cp -rv pdfium-lib/libpdfium.so ./target/debug/
     Run the application: `cargo run -- test/annotations-test.pdf`
