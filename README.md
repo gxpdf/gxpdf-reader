@@ -8,6 +8,10 @@
 
 ## Get Started
 ### Linux
+- Install dependency library(on debian 12+)
+```
+sudo apt install libglib2.0-dev pkg-config libcairo2-dev libgdk-pixbuf-2.0-dev libpango1.0-dev libgraphene-1.0-dev libgtk-4-dev libepoxy-dev
+```
 - Install from source code:
 ```
     Clone the repository: `git clone https://github.com/gxpdf/gxpdf-reader.git`

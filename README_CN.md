@@ -8,6 +8,10 @@
 
 ## 快速开始
 ### Linux
+- 安装依赖库(仅在debian12+之上试验过)
+```
+sudo apt install libglib2.0-dev pkg-config libcairo2-dev libgdk-pixbuf-2.0-dev libpango1.0-dev libgraphene-1.0-dev libgtk-4-dev libepoxy-dev
+```
 - 从源代码安装：
 ```
 克隆仓库：`git clone https://gitee.com/gxpdf/gxpdf-reader.git`
